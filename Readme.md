@@ -10,7 +10,7 @@
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run command: `python run.py main.py config.json`
 
-### Authors:
+##### Assignment Authors:
 * Giorgi Kobiashvili g.kobiashvili@freeuni.edu.ge
 * Konstantine Dvalishvili k.dvalishvili@freeuni.edu.ge
 * Giorgi Basilaia g.basilaia@freeuni.edu.ge
